@@ -6,32 +6,30 @@ I'm Cyril a seasoned software developer with a passion for cutting-edge technolo
 
 - **Programming Languages:**
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)  
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-
-  Leveraging its versatility for dynamic web applications.
-  Bringing robust solutions to life with its scalability and performance.
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) : Leveraging its versatility for dynamic web applications.
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) :  Bringing robust solutions to life with its scalability and performance.  
+ 
 - **Frameworks:**
 
-  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white) :  Crafting efficient and maintainable backend systems.
+  
+  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) :  Designing interactive and responsive user interfaces.
 
-  Crafting efficient and maintainable backend systems.
-  
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-  
-  Designing interactive and responsive user interfaces.
 - **Web Technologies:**
+
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
   Shaping engaging and modern web experiences.
-- **Databases:**
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-  Designing and optimizing relational databases.
 
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-  Harnessing the power of NoSQL for flexible data storage.
+- **Databases:**
+
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) :  Designing and optimizing relational databases.
+
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) :  Harnessing the power of NoSQL for flexible data storage.
+
 - **Tools:**
+
   ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
 
 ## 💡 Passion and Experience
