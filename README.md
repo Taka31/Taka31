@@ -5,16 +5,20 @@ I'm Cyril a seasoned software developer with a passion for cutting-edge technolo
 ## 🚀 Expertise
 
 - **Programming Languages:**
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-  Leveraging its versatility for dynamic web applications.
-  
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)  
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
+  Leveraging its versatility for dynamic web applications.
   Bringing robust solutions to life with its scalability and performance.
 - **Frameworks:**
+
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+
   Crafting efficient and maintainable backend systems.
   
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+  
   Designing interactive and responsive user interfaces.
 - **Web Technologies:**
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
