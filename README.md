@@ -1,163 +1,26 @@
-# 👋 Hello, I'm Cyril
+# Cyril Menard
 
-I'm a **Cloud-Native Application Architect / Senior Backend Engineer** with 12+ years of experience designing and delivering **secure, scalable microservices platforms**.
+**Tech Lead & Software Architect** — Java & Spring Boot microservices, delivery engineering, AI-assisted operations.
+Madrid, Spain · 15+ years in software engineering · I work in French, English and Spanish every day.
 
-My focus is on:
-- Application architecture
-- Java / Spring Boot microservices
-- Cloud (Azure)
-- Security by design
-- Event-driven systems
-- Observability
-- Progressive integration of AI
+I design distributed systems and stay technically hands-on — from the architectural patterns down to the pipelines that ship them. I currently lead the transversal core team of an industrial microservices platform deployed across five regions, where I also took ownership of the delivery chain and rebuilt it end to end.
 
-Currently building a full **reference microservices platform** as part of my journey toward **Cloud / Application Architect roles**.
+## What I actually do
 
-Languages: 🇫🇷 🇬🇧 🇪🇸
+**Architecture.** Microservices and event-driven design, API gateways, resilience patterns, and the progressive decomposition of a legacy monolith using a strangler fig approach. Java 21, Spring Boot 3, WebFlux, Hibernate/JPA. Kafka in production for notifications and document generation.
 
----
+**Delivery engineering.** Where most of my energy goes. I took over a fragile delivery chain and rebuilt it end to end: CI/CD pipelines, tagging and versioning strategy, GitOps release flow with ArgoCD, and the platform's first automated test suite. Quality and security gates live inside the pipeline — SonarQube, Fortify (SAST), SCA dependency scanning. Currently pushing a continuous-release model to replace multi-month release cycles.
 
-## 🚀 Core Expertise
+**AI-assisted delivery.** I built a release-manager MCP server (TypeScript, ~15 typed tools) that drives a full release cycle from chat: release branches across repos, image promotion, git tags, and one ArgoCD pull request per region.
 
-### 💻 Programming
+It is deliberately a thin orchestration layer — it dispatches the existing audited pipelines rather than reimplementing CI, so the trace of every mutation stays where it belongs. Designed with an AI-safety posture: strict read/write separation, no direct git or GitOps writes, a defensive deny-list enforcing the immutable image lifecycle, and mandatory double confirmation for production. It is not an autonomous agent, by design — it tools the release manager, it does not replace them.
 
-![Java](https://img.shields.io/badge/Java%2021-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Cloud-native (Azure, application level).** Kubernetes, Key Vault and secrets management, Azure DevOps, Docker, JFrog Artifactory, monitoring with Datadog. Security as a first-class concern: Spring Security, OAuth2/JWT, RBAC via Keycloak and Entra ID, OWASP.
 
----
+## Currently learning
 
-### ⚙️ Backend & Frameworks
+CKA (Certified Kubernetes Administrator), and infrastructure-as-code.
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
+## Elsewhere
 
-- Microservices architecture
-- API Gateway (Spring Cloud Gateway)
-- OAuth2 / JWT Resource Server
-- Event-driven communication
-- Resilience patterns
-
----
-
-### ☁️ Cloud & Platform
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-- Azure Container Apps
-- Azure Container Registry
-- Networking (VNET, Private Endpoints, Hub & Spoke)
-- Managed Identity / Key Vault
-- Cloud observability
-
-Certifications in progress:
-- AZ-104 (Azure Administrator)
-- AZ-305 (Azure Solutions Architect)
-
----
-
-### 📦 Data & Messaging
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-
-- PostgreSQL (service persistence)
-- Redis (cache / rate limiting)
-- Kafka / Redpanda (event streaming)
-- Outbox / Saga / CQRS patterns (ongoing)
-
----
-
-### 🔐 Security
-
-- OAuth2 / JWT
-- Gateway-based access control
-- Role & scope design
-- Secure secrets management
-- Threat modeling (STRIDE)
-- DevSecOps mindset
-
-Security is treated as a **first-class architectural concern**.
-
----
-
-### 📊 Observability
-
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-
-- Distributed tracing
-- Metrics & dashboards
-- Centralized logging
-- SLO-driven monitoring
-
----
-
-## 🧱 Current Architecture Lab
-
-Reference cloud-native microservices platform:
-
-- API Gateway
-- Order Service
-- Customer Service
-
-Local platform:
-- Postgres
-- Redis
-- Kafka (Redpanda)
-
-Future:
-- Azure deployment
-- OpenTelemetry stack
-- Advanced messaging patterns
-- RAG + AI agents + MCP
-
-Includes:
-- ADRs
-- C4 diagrams
-- HLD
-- Security models
-- Disaster recovery notes
-
----
-
-## 🤖 AI Roadmap
-
-Progressive integration of:
-
-- RAG over architecture documentation
-- Incident & release agents
-- MCP server
-- Tool catalogs
-- Policy enforcement
-
-Goal: **AI-augmented architecture & operations**.
-
----
-
-## 💡 About Me
-
-I enjoy working at the intersection of:
-
-✔ application architecture  
-✔ backend engineering  
-✔ cloud platforms  
-✔ security  
-✔ delivery  
-
-I like staying close to the code while owning architectural decisions.
-
----
-
-## 💬 Contact
-
-- LinkedIn: https://www.linkedin.com/in/cyril-menard-949246b5/
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Taka31&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taka31&layout=compact)
+[LinkedIn](https://www.linkedin.com/in/cyril-menard-949246b5/)
